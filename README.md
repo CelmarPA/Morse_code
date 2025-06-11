@@ -61,14 +61,14 @@ A simple and interactive terminal-based application written in **Python** that a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/morse-code-converter.git
-cd morse-code-converter
+git clone https://github.com/CelmarPA/Morse_code
+cd Morse_Code_Python
 ```
 
 ### 2. Run the program
 
 ```bash
-python3 morse_converter.py
+python3 main.py
 ```
 
 ---
